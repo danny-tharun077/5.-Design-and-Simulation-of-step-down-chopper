@@ -52,5 +52,10 @@ Voltage Ripple (Delta V) = 20mV
 Current Ripple (Delta I) = 0.1A
 
 ## Simulation
+<img width="1338" height="573" alt="image" src="https://github.com/user-attachments/assets/8254e92f-909b-49a3-adb1-0123c8906fdc" />
+
 ## Output
+<img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/751ff65f-5918-48db-81fa-1d8e32385bb9" />
+
 ## Result
+Thus to simulate and analyse a step down chopper using MATLAB Simulink has been done sucessfully.
